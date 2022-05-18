@@ -3,17 +3,23 @@ import { buildQueries } from "@testing-library/react";
 export const LINKEDINURL = "https://www.linkedin.com/in/oliviaaduu/";
 export const GITHUBURL = "https://github.com/oliviaaduu";
 export const EMAIL = "odu@usc.edu";
+
 export const COLORS = {
     LTBLUE: "#c6d2ffff",
     DRKBLUE: "#06228b",
     BKGRBEIGE: "#fcfcf5",
-
 };
-export const ABOUTME = "hi there! i’m olivia and im a sophomore at usc studying computer science and business admin. " + 
-"im interested in being in the technology sphere for its potential for growth, " + 
-"but i want to do so in a interpersonal, creative way. beyond my core cs classes like " + 
-"data structures and algorithms, through my business side and my interdisciplinary honors " + 
-"program, i can push myself to learn and grow in areas beyond technical knowledge. " + 
-"im currently looking into positions in software engineering that interest me through both " + 
-"technical and company culture terms, to hopefully find a fit and environment where i can " + 
-"contribute best.";
+
+export const INTRO = "Hi there!! My name is Olivia and I’m a sophomore at USC studying Computer Science & Business Administration. " + 
+"I’m fascinated by technology’s potential for growth and power to further genuine human connection and social good. " + 
+"I’d love to explore positions throughout the software engineering industry where I can contribute in an interpersonal, creative way that feels authentic to me :)";
+
+export const ABOUTME = "I’m spending this summer as a Cybersecurity Software Engineering Intern @ Lyft! During the school year, you can find me at rehearsal with Oriana Choir, working on the Malawi Sanitation Project with USC Engineers Without Borders, or hanging out with some other powerful women in STEM with Alpha Omega Epsilon Sorority. I might also be holding office hours for CS104: Data Structures and Object Oriented Design, or managing the social media platforms for @uscacm. Otherwise, I’ll be on a picnic blanket with a good friend, a novel, my paints, or my ukulele. ";
+export const ORIANALINK = "https://music.usc.edu/oriana-choir/";
+export const EWBLINK = "https://www.uscewb.org/malawi";
+export const AOELINK = "https://aoeusc.wordpress.com/";
+export const CSLINK = "https://bytes.usc.edu/cs104/";
+export const ACMLINK = "https://www.uscacm.org/";
+
+export const PROJECTINTRO = "I love dipping my toes in all kinds of projects! Check them out in my portfolio!";
+export const PORTFOLIOLINK = "https://docs.google.com/presentation/d/1fnc5zJbFgdUQ_2juPHcQYD81f-rcHYlCSkxmMUCHgoA/edit?usp=sharing";
