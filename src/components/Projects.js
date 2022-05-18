@@ -1,4 +1,4 @@
-import { PORTFOLIOLINK, PROJECTINTRO } from '../constants';
+import { PORTFOLIOLINK} from '../constants';
 
 function Projects() {
     return (

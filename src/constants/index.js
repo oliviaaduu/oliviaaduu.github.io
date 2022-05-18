@@ -22,4 +22,4 @@ export const CSLINK = "https://bytes.usc.edu/cs104/";
 export const ACMLINK = "https://www.uscacm.org/";
 
 export const PROJECTINTRO = "I love dipping my toes in all kinds of projects! Check them out in my portfolio!";
-export const PORTFOLIOLINK = "https://docs.google.com/presentation/d/1fnc5zJbFgdUQ_2juPHcQYD81f-rcHYlCSkxmMUCHgoA/edit?usp=sharing";
+export const PORTFOLIOLINK = "https://docs.google.com/presentation/d/e/2PACX-1vTgIvBUENFMF61kJXEnfhnmIg8U7R2-68NBoTdsLFBOOVRNpiUVhLi0GpsDl9hKvQYC1aat5O7mJpI_/pub?start=false&loop=false&delayms=60000";
