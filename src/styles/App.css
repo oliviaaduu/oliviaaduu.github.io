@@ -1,5 +1,4 @@
 .App {
-  /* text-align: center; */
   display: flex;
   font-family: Rhodium Libre, Times, serif;
   background-color: #c6d2ff;
@@ -12,6 +11,10 @@
   font-size: calc(10px + 2vmin);
 }
 
+h2{
+  margin: 10px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -22,10 +25,16 @@ p{
   font-family: Raleway, sans-serif;
   font-size: 20px;
   text-align: left;
+  margin: 10px;
 }
 
 .App-link {
   color: #06228b;
+}
+
+img{
+  object-fit: contain;
+  resize: both;
 }
 
 @keyframes App-logo-spin {
