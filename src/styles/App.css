@@ -1,0 +1,38 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  font-family: Rhodium Libre, Times, serif;
+  background-color: #c6d2ffff;
+  color: #06228b;
+  flex-direction: column;
+  height: wrap;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+p{
+  font-family: Raleway, sans-serif;
+  /* background-color: #E0E0E0;  */
+  font-size: 20px;
+}
+
+.App-link {
+  color: #06228b;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

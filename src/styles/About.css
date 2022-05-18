@@ -1,0 +1,13 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    font-family: Raleway, sans-serif;
+    /* background-color: #E0E0E0;  */
+    font-size: 20px;
+    width: 60%;
+    text-align: left;
+    /* margin: 200px; */
+  }
