@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb1f42b1.css",
-    "main.js": "/static/js/main.9b1b40b2.js",
-    "static/js/787.8d9ccd0b.chunk.js": "/static/js/787.8d9ccd0b.chunk.js",
-    "static/media/linkedin.png": "/static/media/linkedin.93e1d7a1aa19245bdfe9.png",
-    "static/media/mail.png": "/static/media/mail.d5fdf8144c959d0c528c.png",
-    "static/media/github.png": "/static/media/github.e7f663b29525767cea0c.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.cb1f42b1.css.map": "/static/css/main.cb1f42b1.css.map",
-    "main.9b1b40b2.js.map": "/static/js/main.9b1b40b2.js.map",
-    "787.8d9ccd0b.chunk.js.map": "/static/js/787.8d9ccd0b.chunk.js.map"
+    "main.css": "/oliviaaduu.github.io/static/css/main.847a86ab.css",
+    "main.js": "/oliviaaduu.github.io/static/js/main.f5877eea.js",
+    "static/js/787.8d9ccd0b.chunk.js": "/oliviaaduu.github.io/static/js/787.8d9ccd0b.chunk.js",
+    "static/media/flower.png": "/oliviaaduu.github.io/static/media/flower.2fb3df45fef62f447ab8.png",
+    "static/media/linkedin.png": "/oliviaaduu.github.io/static/media/linkedin.93e1d7a1aa19245bdfe9.png",
+    "static/media/mail.png": "/oliviaaduu.github.io/static/media/mail.d5fdf8144c959d0c528c.png",
+    "static/media/cat.png": "/oliviaaduu.github.io/static/media/cat.54a929d1a102af898c74.png",
+    "static/media/github.png": "/oliviaaduu.github.io/static/media/github.e7f663b29525767cea0c.png",
+    "static/media/cloud.png": "/oliviaaduu.github.io/static/media/cloud.4d67820978bd099d5ca6.png",
+    "static/media/heart.png": "/oliviaaduu.github.io/static/media/heart.f64e6156fd82468d6745.png",
+    "static/media/sun.png": "/oliviaaduu.github.io/static/media/sun.718a3f60480ae7610486.png",
+    "static/media/logo.svg": "/oliviaaduu.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/oliviaaduu.github.io/index.html",
+    "main.847a86ab.css.map": "/oliviaaduu.github.io/static/css/main.847a86ab.css.map",
+    "main.f5877eea.js.map": "/oliviaaduu.github.io/static/js/main.f5877eea.js.map",
+    "787.8d9ccd0b.chunk.js.map": "/oliviaaduu.github.io/static/js/787.8d9ccd0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb1f42b1.css",
-    "static/js/main.9b1b40b2.js"
+    "static/css/main.847a86ab.css",
+    "static/js/main.f5877eea.js"
   ]
 }
