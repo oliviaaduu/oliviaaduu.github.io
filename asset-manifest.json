@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/oliviaaduu.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/oliviaaduu.github.io/static/js/main.c4e14700.js",
-    "static/js/787.8d9ccd0b.chunk.js": "/oliviaaduu.github.io/static/js/787.8d9ccd0b.chunk.js",
-    "static/media/logo.svg": "/oliviaaduu.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/oliviaaduu.github.io/index.html",
-    "main.073c9b0a.css.map": "/oliviaaduu.github.io/static/css/main.073c9b0a.css.map",
-    "main.c4e14700.js.map": "/oliviaaduu.github.io/static/js/main.c4e14700.js.map",
-    "787.8d9ccd0b.chunk.js.map": "/oliviaaduu.github.io/static/js/787.8d9ccd0b.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.1550a001.js",
+    "static/js/787.8d9ccd0b.chunk.js": "/static/js/787.8d9ccd0b.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.1550a001.js.map": "/static/js/main.1550a001.js.map",
+    "787.8d9ccd0b.chunk.js.map": "/static/js/787.8d9ccd0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c4e14700.js"
+    "static/js/main.1550a001.js"
   ]
 }
