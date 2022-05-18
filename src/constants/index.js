@@ -1,6 +1,14 @@
+import { buildQueries } from "@testing-library/react";
+
 export const LINKEDINURL = "https://www.linkedin.com/in/oliviaaduu/";
 export const GITHUBURL = "https://github.com/oliviaaduu";
 export const EMAIL = "odu@usc.edu";
+export const COLORS = {
+    LTBLUE: "#c6d2ffff",
+    DRKBLUE: "#06228b",
+    BKGRBEIGE: "#fcfcf5",
+
+};
 export const ABOUTME = "hi there! i’m olivia and im a sophomore at usc studying computer science and business admin. " + 
 "im interested in being in the technology sphere for its potential for growth, " + 
 "but i want to do so in a interpersonal, creative way. beyond my core cs classes like " + 

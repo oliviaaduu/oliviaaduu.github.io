@@ -1,19 +1,26 @@
 import { EMAIL, GITHUBURL, LINKEDINURL } from '../constants';
+import Image from 'react';
 import '../styles/Links.css';
+import mailImg from "../images/mail.png";
+import gitHubImg from "../images/github.png";
+import linkedInImg from "../images/linkedin.png";
+
 
 function Links() {
   return (
     <div className="Links">
-      <p>Olivia Du, May 2022.</p>
-      {/* <img src="images/Gmail-logo.png"/>  */}
-      <p>{EMAIL}</p>
+      <p>© Olivia Du, May 2022.</p>
+      <p>
+        {EMAIL}
+        <img src={mailImg}/>
+      </p>
       <a href= {GITHUBURL}>
-          {/* <img src="images/GitHub-Mark-120px-plus.png"/> */}
-          Github
+          <img src={gitHubImg}/>
+          {/* Github */}
       </a>
       <a href={LINKEDINURL}>
-          {/* <img src="images/LI-In-Bug.png"/> */}
-          LinkedIn
+        <img src={linkedInImg}/>
+          {/* LinkedIn */}
       </a>
     </div>
   );
