@@ -10,7 +10,7 @@ function About() {
           I might also be holding office hours for <a href={CSLINK}>CS104</a>: Data Structures and Object Oriented Design, 
           or managing the social media platforms for <a href={ACMLINK}>USC ACM</a>. 
           Otherwise, I’ll be basking in the sun on a picnic blanket with a good friend, a novel, or my paints, or learning something cool and new like trying to play Taylor Swift songs on the ukulele. 
-          (Or if I'm at home, I'm probably bothering my cats.)
+          Or if I'm at home, I'm probably bothering my cats ;)
           </p>
       </div>
     );

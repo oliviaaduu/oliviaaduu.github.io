@@ -5,6 +5,7 @@ import About from './components/About';
 import Links from './components/Links';
 import Heading from './components/Heading';
 import Projects from './components/Projects';
+import Logo from "./components/Logo";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Projects></Projects>
       <Links></Links>
       <p>© Olivia Du, May 2022.</p>
+      <Logo></Logo>
     </div>
   );
 }

@@ -23,13 +23,18 @@ h2{
 
 p{
   font-family: Raleway, sans-serif;
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: calc(2px + 2vmin);
   text-align: left;
   margin: 10px;
 }
 
 .App-link {
   color: #06228b;
+}
+
+a:hover {
+  color: #ffb954;
 }
 
 img{

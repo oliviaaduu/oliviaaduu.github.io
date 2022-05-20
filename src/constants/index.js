@@ -8,6 +8,7 @@ export const COLORS = {
     LTBLUE: "#c6d2ffff",
     DRKBLUE: "#06228b",
     BKGRBEIGE: "#fcfcf5",
+    ORANGE: "ffb954",
 };
 
 export const INTRO = "Hi there!! My name is Olivia and I’m a sophomore at USC studying Computer Science & Business Administration. " + 
