@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9717f675.css",
-    "main.js": "/static/js/main.1e13d01c.js",
+    "main.css": "/static/css/main.32270790.css",
+    "main.js": "/static/js/main.bd7b7dbb.js",
     "static/js/787.8d9ccd0b.chunk.js": "/static/js/787.8d9ccd0b.chunk.js",
     "static/media/logo.png": "/static/media/logo.830a4da6df9352ce0866.png",
+    "static/media/Du, Olivia - May 2022.pdf": "/static/media/Du, Olivia - May 2022.f08d7c21971a5bed926f.pdf",
     "static/media/flower.png": "/static/media/flower.2fb3df45fef62f447ab8.png",
     "static/media/linkedin.png": "/static/media/linkedin.93e1d7a1aa19245bdfe9.png",
     "static/media/mail.png": "/static/media/mail.d5fdf8144c959d0c528c.png",
     "static/media/cat.png": "/static/media/cat.54a929d1a102af898c74.png",
     "static/media/github.png": "/static/media/github.e7f663b29525767cea0c.png",
     "static/media/cloud.png": "/static/media/cloud.4d67820978bd099d5ca6.png",
+    "static/media/resume.png": "/static/media/resume.7112966cab0d2ea18917.png",
     "static/media/heart.png": "/static/media/heart.f64e6156fd82468d6745.png",
     "static/media/sun.png": "/static/media/sun.718a3f60480ae7610486.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.9717f675.css.map": "/static/css/main.9717f675.css.map",
-    "main.1e13d01c.js.map": "/static/js/main.1e13d01c.js.map",
+    "main.32270790.css.map": "/static/css/main.32270790.css.map",
+    "main.bd7b7dbb.js.map": "/static/js/main.bd7b7dbb.js.map",
     "787.8d9ccd0b.chunk.js.map": "/static/js/787.8d9ccd0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9717f675.css",
-    "static/js/main.1e13d01c.js"
+    "static/css/main.32270790.css",
+    "static/js/main.bd7b7dbb.js"
   ]
 }
