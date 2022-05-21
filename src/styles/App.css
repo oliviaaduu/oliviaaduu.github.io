@@ -9,16 +9,11 @@
   justify-content: center;
   min-height: 100vh;
   font-size: calc(10px + 2vmin);
+  cursor: url("../images/sparkle-cursor_32x32.png"), auto;
 }
 
 h2{
   margin: 10px;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 p{
@@ -29,17 +24,23 @@ p{
   margin: 10px;
 }
 
-.App-link {
-  color: #06228b;
-}
-
 a:hover {
   color: #ffb954;
+  cursor: url("../images/click-cursor_32x32.png"), auto;
 }
 
 img{
   object-fit: contain;
   resize: both;
+}
+
+
+/* react spin animation */
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
 }
 
 @keyframes App-logo-spin {
